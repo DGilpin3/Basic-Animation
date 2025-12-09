@@ -55,7 +55,7 @@ Week1Lab/ │ ├── wk1.html # Main HTML file ├──  ball images │ ├
 
 ## 🚀 How to Run
 
-https://dgilpin3.github.io/Basic-Animation
+https://dgilpin3.github.io/Basic-Animation/
 
 📝 Notes
 All animations use CSS keyframes with translateX and rotate for smooth GPU-accelerated motion.
